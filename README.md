@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arunsharma14072" target="blank"><img src="https://img.shields.io/twitter/follow/arunsharma14072?logo=twitter&style=for-the-badge" alt="arunsharma14072" /></a> </p>
 
-- 🔭 I’m currently working on **Weather App**
+- 🔭 I’m currently working on **Chat Application**
 
 - 🌱 I’m currently learning **Java, Node.js, Hive**
 
