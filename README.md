@@ -28,6 +28,10 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arun-sharma-661869334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-sharma-661869334/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/arunkumar73177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/arunkumar73177" height="30" width="40" /></a>
 <a href="https://kaggle.com/arunkumar0419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arunkumar0419" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/u/Arunkumar523/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+       alt="arunkumar523" height="30" width="40" />
+</a>
 <a href="https://instagram.com/@i.arunsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@i.arunsharmaa" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/arunkumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/arunkumar7" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/arunsharma226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/arunsharma226" height="30" width="40" /></a>
