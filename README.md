@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Achivo App** **&** **Near Byt**
 
-- 🌱 I’m currently learning **Java, Node.js, Hive**
+- 🌱 I’m currently learning **Java, Node.js, Hive, SQL**
 
 - 👯 I’m looking to collaborate on **Gaming App**
 
