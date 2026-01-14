@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Flutter and Firebase**
 
-- 📫 How to reach me **arunsharma73177@gmail.com**
+- 📫 Reach me at **arunsharma73177@gmail.com**
 
 - ⚡ Fun fact **I debug faster with music on – especially lo-fi beats.**
 
