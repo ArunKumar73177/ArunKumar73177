@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/arunsharma14072" target="blank"><img src="https://img.shields.io/twitter/follow/arunsharma14072?logo=twitter&style=for-the-badge" alt="arunsharma14072" /></a> </p>
 
-- 🔭 I’m currently working on **Achivo App** 
+- 🔭 I'm currently working on **Achivo App** 
 
-- 🌱 I’m currently learning **Java, Node.js, Hive, SQL**
+- 🌱 I'm currently learning **Java, Node.js, Hive, SQL**
 
-- 👯 I’m looking to collaborate on **Gaming App**
+- 👯 I'm looking to collaborate on **Gaming App**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 I'm looking for help with **DevOps**
 
 - 💬 Ask me about **Flutter and Firebase**
 
@@ -24,15 +24,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arunsharma14072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arunsharma14072" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arun-sharma-661869334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-sharma-661869334/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arun-sharma-661869334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun-sharma-661869334" height="30" width="40" /></a>
 <a href="https://kaggle.com/arunkumar0419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arunkumar0419" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/u/Arunkumar523/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-       alt="arunkumar523" height="30" width="40" />
-</a>
-<a href="https://instagram.com/@i.arunsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@i.arunsharmaa" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/arunkumar73177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arunkumar73177/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/profile/arunkumar23gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/arunsharstnh/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Arunkumar523/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arunkumar523" height="30" width="40" /></a>
+<a href="https://instagram.com/i.arunsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.arunsharmaa" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/arunkumar23gfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arunkumar23gfg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
